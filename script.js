@@ -1,5 +1,5 @@
 function getFormvalue() {
     //Write your code here
-	alert('neelam');
-alert('rani');
+	alert('John Doe');
+// alert('rani');
 }
